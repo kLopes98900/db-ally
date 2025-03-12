@@ -1,0 +1,5 @@
+[project]
+name = "db-ally"
+version = "0.1.0"
+description = "Efficient, consistent and secure library for querying structured data with natural language"
+requires-python = ">=3.10"
